@@ -10,4 +10,8 @@ public class GitDemo1 {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+
+    public void fun(){
+        System.out.println("新增了一个方法");
+    }
 }
