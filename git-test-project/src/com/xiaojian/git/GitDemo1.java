@@ -12,6 +12,8 @@ public class GitDemo1 {
         // hello test
         // master
         System.out.println("master");
+        //dev1
+        System.out.println("dev1");
     }
 
     public void fun(){
