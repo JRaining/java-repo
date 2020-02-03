@@ -10,6 +10,8 @@ public class GitDemo1 {
         System.out.println("hello git");
         System.out.println("hello git");
         // hello test
+        // master
+        System.out.println("master");
     }
 
     public void fun(){
