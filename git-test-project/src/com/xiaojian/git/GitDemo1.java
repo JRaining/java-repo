@@ -6,9 +6,9 @@ public class GitDemo1 {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hello git");
-        System.out.println("hello git");
-        System.out.println("hello git");
+        System.out.println("synchronization");
+        System.out.println("synchronization");
+        System.out.println("synchronization");
         // hello test
     }
 
