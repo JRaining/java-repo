@@ -2,14 +2,18 @@ package com.xiaojian.git;
 
 public class GitDemo1 {
     public static void main(String[] args) {
-        System.out.println("hello git");
-        System.out.println("hello git");
-        System.out.println("hello git");
-        System.out.println("hello git");
+        System.out.println("everyont");
+        System.out.println("everyont");
+        System.out.println("everyont");
+        System.out.println("everyont");
         System.out.println("synchronization");
         System.out.println("synchronization");
         System.out.println("synchronization");
         // hello test
+        // master
+        System.out.println("master");
+        //dev1
+        System.out.println("dev1");
     }
 
     public void fun(){
