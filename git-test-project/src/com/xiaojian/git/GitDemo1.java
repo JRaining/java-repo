@@ -18,4 +18,8 @@ public class GitDemo1 {
         i++;
         System.out.println(i);
     }
+    public void fun2(){
+        // master
+        System.out.println("测试冲突解决");
+    }
 }
